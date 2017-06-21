@@ -1,0 +1,13 @@
+/*
+Theme Name: RPplatform
+Description: IE8 specific style.
+*/
+
+.reviews-container #navigation a#prev {
+    float: left;
+    background: url('./images/controls.png') 0 0 no-repeat;
+}
+.reviews-container #navigation a#next {
+    float: right;
+    background: url('./images/controls.png') -36px 0 no-repeat;
+}
